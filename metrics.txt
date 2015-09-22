@@ -1,0 +1,8 @@
+#Elapsed Time (secs),Bytes Received,Requests Serviced, Requests Failed, Comment
+   0.26690,       4078,          0,          0, (null)
+   0.27011,       8174,          0,          0, (null)
+   0.27093,      12270,          0,          0, (null)
+   0.27498,      16366,          0,          0, (null)
+   0.27892,      20462,          0,          0, (null)
+   0.27991,      21714,          0,          0, (null)
+   0.28694,      21714,          1,          0, /courses/ud923/filecorpus/1kb-sample-file-1.html
